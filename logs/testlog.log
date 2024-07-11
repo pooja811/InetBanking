@@ -1,0 +1,8 @@
+2024-07-11 22:36:15,603 +0530 [main] INFO  TC_login001.java:13 - ULR is opened
+2024-07-11 22:36:16,099 +0530 [main] INFO  TC_login001.java:16 - username is entered
+2024-07-11 22:36:16,202 +0530 [main] INFO  TC_login001.java:18 - password is entered
+2024-07-11 22:36:17,345 +0530 [main] INFO  TC_login001.java:23 - TestCase PASSED
+2024-07-11 22:36:22,779 +0530 [main] INFO  TC_addNewCustomer__003.java:14 - Inside TC_addNewCustomer__003.addCustomer
+2024-07-11 22:36:24,610 +0530 [main] INFO  TC_addNewCustomer__003.java:20 - User Logged in
+2024-07-11 22:36:25,301 +0530 [main] INFO  TC_addNewCustomer__003.java:23 - Providing new customer details
+2024-07-11 22:36:35,121 +0530 [main] INFO  TC_addNewCustomer__003.java:50 - New Customer Created

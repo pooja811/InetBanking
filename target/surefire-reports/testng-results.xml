@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-11T22:36:06 IST" name="InetBanking" finished-at="2024-07-11T22:36:40 IST" duration-ms="34036">
+    <groups>
+    </groups>
+    <test started-at="2024-07-11T22:36:06 IST" name="Banking Test" finished-at="2024-07-11T22:36:40 IST" duration-ms="34036">
+      <class name="com.inetbanking.TestCases.TC_login001">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.inetbanking.TestCases.TC_login001@2d7275fc]" started-at="2024-07-11T22:36:06 IST" name="setUp" finished-at="2024-07-11T22:36:14 IST" duration-ms="7176" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginTest()[pri:0, instance:com.inetbanking.TestCases.TC_login001@2d7275fc]" started-at="2024-07-11T22:36:14 IST" name="loginTest" finished-at="2024-07-11T22:36:17 IST" duration-ms="3183" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.inetbanking.TestCases.TC_login001@2d7275fc]" started-at="2024-07-11T22:36:17 IST" name="tearDown" finished-at="2024-07-11T22:36:17 IST" duration-ms="461" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.inetbanking.TestCases.TC_login001 -->
+      <class name="com.inetbanking.TestCases.TC_addNewCustomer__003">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.inetbanking.TestCases.TC_addNewCustomer__003@35cabb2a]" started-at="2024-07-11T22:36:17 IST" name="setUp" finished-at="2024-07-11T22:36:22 IST" duration-ms="4947" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="addCustomer()[pri:0, instance:com.inetbanking.TestCases.TC_addNewCustomer__003@35cabb2a]" started-at="2024-07-11T22:36:22 IST" name="addCustomer" finished-at="2024-07-11T22:36:40 IST" duration-ms="17400" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCustomer -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.inetbanking.TestCases.TC_addNewCustomer__003@35cabb2a]" started-at="2024-07-11T22:36:40 IST" name="tearDown" finished-at="2024-07-11T22:36:40 IST" duration-ms="231" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.inetbanking.TestCases.TC_addNewCustomer__003 -->
+    </test> <!-- Banking Test -->
+  </suite> <!-- InetBanking -->
+</testng-results>
